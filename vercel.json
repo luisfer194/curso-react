@@ -1,6 +1,0 @@
-{
-  "rootDirectory": "projects/00-hola-mundo",
-  "framework": "vite",
-  "buildCommand": "npm run build",
-  "outputDirectory": "dist"
-}
