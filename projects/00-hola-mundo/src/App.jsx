@@ -37,6 +37,7 @@ const users = [
 export function App() {
   return (
     <section className='App'>
+      <h1>Twitter Follow Card</h1>
       {
         users.map(({ userName, name, isFollowing }) => (
           <TwitterFollowCard
